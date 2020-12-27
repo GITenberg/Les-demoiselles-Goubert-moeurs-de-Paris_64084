@@ -1,6 +1,9 @@
 _repo: Les-demoiselles-Goubert-moeurs-de-Paris_64084
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: 'Les demoiselles Goubert: moeurs de Paris'
+covers:
+- cover_type: archival
+  image_path: 64084-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Adam, Paul
@@ -25,6 +28,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Jean_Mor%C3%A9as
     - https://en.wikipedia.org/wiki/Jean_Mor%C3%A9as
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64084#Les-demoiselles-Goubert-moeurs-de-Paris
 gutenberg_issued: '2020-12-20'
 gutenberg_type: Text
 identifiers:
