@@ -1,0 +1,41 @@
+_repo: Les-demoiselles-Goubert-moeurs-de-Paris_64084
+_version: 0.0.1
+alternative_title: 'Les demoiselles Goubert: moeurs de Paris'
+creator:
+  authors:
+  - agent_name: Adam, Paul
+    alias: Adam, Paul Auguste Marie
+    birthdate: 1862
+    deathdate: 1920
+    gutenberg_agent_id: '6384'
+    url: http://www.gutenberg.org/2009/agents/6384
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Paul_Adam
+    - https://en.wikipedia.org/wiki/Paul_Adam_(French_novelist)
+  - agent_name: Moréas, Jean
+    aliases:
+    - Papadiamantopoulos, Ioannes
+    - Moreas, Zan
+    - Papadiamandopoulos, Ioannis
+    birthdate: 1856
+    deathdate: 1910
+    gutenberg_agent_id: '52317'
+    url: http://www.gutenberg.org/2009/agents/52317
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Jean_Mor%C3%A9as
+    - https://en.wikipedia.org/wiki/Jean_Mor%C3%A9as
+description: ''
+gutenberg_issued: '2020-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64084'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction -- 19th century'
+- GITenberg
+title: 'Les demoiselles Goubert: mœurs de Paris'
+url: http://www.gutenberg.org/ebooks/64084
